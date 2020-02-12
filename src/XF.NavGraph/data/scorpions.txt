@@ -1,0 +1,22 @@
+﻿
+Home
+	Sports
+		Volleyball
+		Football
+		Wrestling
+	Academics
+		Registrar
+		College Prep
+	Social
+		Student Government
+			Seniors
+			Juniors
+			Sophomores
+			Freshmen
+		Events
+			Games
+			Showcases
+			Parties
+	About Us
+		Who we are
+		Contact us

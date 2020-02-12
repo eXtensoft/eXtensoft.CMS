@@ -1,0 +1,17 @@
+﻿
+
+graph
+	node
+		waypoint
+			promo[]
+			edge[:outgoing] ,promo{}
+			content-presenter
+				static
+				dynamic (data-driven)
+				launch (external/independent app, integration)
+	edge
+		card
+			promo[]
+	content
+		type: html,markdown,flow-document,text,embedded-resource
+		style: css, other
